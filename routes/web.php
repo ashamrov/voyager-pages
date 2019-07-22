@@ -3,4 +3,4 @@
 /**
  * Pages catch-all route
  */
-\Pvtl\VoyagerPages\Helpers\Routes::registerPageRoutes();
+//\Pvtl\VoyagerPages\Helpers\Routes::registerPageRoutes();
